@@ -23,6 +23,12 @@ A lightweight demonstration project illustrating an automated GitHub AI agent ca
     └── test_agent.py   # Unit tests
 ```
 
+## Documentation
+
+Additional documentation can be found in the [docs](docs/) directory:
+- [Usage Guide](docs/USAGE.md)
+- [Architecture Overview](docs/ARCHITECTURE.md)
+
 ## Getting Started
 
 ### Prerequisites
